@@ -7,7 +7,7 @@ This Learning Lab is hosted by NASA Earth Science - led by Elizabeth Joyner (eli
 ### Instructors:
 
 * Jon Chilcote: Agricultural Engineer, USDA Natural Resources Conservation Service, jon.chilcote@usda.gov
-* Joan Harper-Neely: STEM Education Specialist, NASA eClips™ Team, National Institute of Aerospace
+* Joan Harper-Neely: STEM Education Specialist, NASA eClips™ Team, National Institute of Aerospace, joan.Harper-Neely@nianet.org
 * Elizabeth Joyner: Community Coordinator, NASA Earth Science Data Systems Programs, Elizabeth.r.joyner@nasa.gov
 * Kim Locke: Applications Analyst, NASA Hydrological Sciences Laboratory,  kim.a.locke@nasa.gov  
 * Forrest Melton: Associate Program Manager and WWAO Program Scientist, Water Resources, NASA Ames, forrest.s.melton@nasa.gov
