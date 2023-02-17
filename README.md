@@ -34,7 +34,7 @@ Orange County Convention Center Exhibit Hall, NASA's Learning Lab
 * SERVIR <https://www.nasa.gov/mission_pages/servir/index.html>
 * VALUABLES (VALUABLES is a collaboration with NASA to measure how satellite information benefits people and the environment when it is used to make decisions.) <https://www.rff.org/valuables/>
 
-3. NASA's ARSET Training
+3. NASA's Professional Development Training
 * ARSET - [Satellite Remote Sensing for Agricultural Applications](https://appliedsciences.nasa.gov/join-mission/training?program_area=16&languages=All&source=All)
           
 4. Agricultural Data Visualizations/Portal
@@ -43,4 +43,4 @@ Orange County Convention Center Exhibit Hall, NASA's Learning Lab
 * [OpenET](https://openetdata.org/) OpenET uses best available science to provide easily accessible satellite-based estimates of evapotranspiration (ET) for improved water management across the western United States. Using the Data Explorer, users can explore ET data at the field scale for millions of individual fields or at the original quarter-acre resolution of the satellite data.
 * [Crop Monitor Open](https://cropmonitor.org/index.php/cmreports/amis-report/), timely, and science-driven information on crop conditions in support of market transparency and early warning of production shortfalls.
 * [Crop Condition and Soil Moisture Analytics (Crop-CASMA)](https://nassgeo.csiss.gmu.edu/CropCASMA/)is a web-based geospatial application. It is designed to remotely sense geospatial soil moisture and vegetation index data derived from NASA Soil Moisture Active Passive (SMAP) and Moderate Resolution Imaging Spectroradiometer (MODIS) missions to assess U.S. soil moisture condition and crop vegetation conditions.
-* [A Guide to NASA's GIS Agriculture Resources](https://storymaps.arcgis.com/stories/dfa71d3aa3a540418cda92532a3d70e6) Discover the NASA Earth Science resources that give insight to agricultural applications.
+* [A Guide to NASA's GIS Agriculture Resources](ADD LINK) Discover the NASA Earth Science resources that give insight to agricultural applications.
